@@ -1,0 +1,3 @@
+flask
+krakenex
+python-dotenv
